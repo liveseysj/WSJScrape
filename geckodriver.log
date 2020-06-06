@@ -39,3 +39,27 @@ JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.j
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1591438381573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9joUR"
+*** You are running in headless mode.
+1591438385645	Marionette	INFO	Listening on port 45245
+1591438385745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.wsj.com/market-data/stocks/marketsdiary, line 111: SyntaxError: An invalid or illegal string was specified
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591438391977	Marionette	INFO	Stopped listening on port 45245
+1591438501664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecC98K2"
+*** You are running in headless mode.
+1591438505639	Marionette	INFO	Listening on port 43379
+1591438505681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.wsj.com/market-data/stocks/marketsdiary, line 111: SyntaxError: An invalid or illegal string was specified
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591438513886	Marionette	INFO	Stopped listening on port 43379

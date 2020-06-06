@@ -50,7 +50,7 @@ df=df.reset_index()
 '''
 
 def main():
-
+    print("Main Executed")
     #%% 
     site = 'https://www.wsj.com/market-data/stocks/marketsdiary'
 
@@ -158,7 +158,7 @@ def main():
         df_spx=df_spx.reset_index()
         df_spx=df_spx.rename(columns={'index':'Date'})
         df_spx.to_csv('SPX 1930 Daily.csv',index=False)
-        
+    print("Main Complete")
 import schedule 
 import time 
 def check():
