@@ -26,7 +26,6 @@ import lxml.html
 
 from selenium import webdriver
 from pyvirtualdisplay import Display
-display = Display(visible=0,size=(1366,768))
 from selenium.webdriver.firefox.options import Options
 #%% Consider Removing as replaced with the close value table in the section below
 
@@ -59,6 +58,7 @@ def main():
     # options.add_argument('--disable-gpu') 
     # options.add_experimental_option('excludeSwitches', ['enable-logging'])
     # driver=webdriver.Chrome(executable_path='E:\Trading\Quant\chromedriver.exe', options=options)
+    display = Display(visible=0,size=(1366,768))
 
     options = Options()
 
