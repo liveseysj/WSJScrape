@@ -1,0 +1,41 @@
+1591428964680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyp1Unx"
+*** You are running in headless mode.
+1591428968615	Marionette	INFO	Listening on port 43215
+1591428968705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.wsj.com/market-data/stocks/marketsdiary, line 111: SyntaxError: An invalid or illegal string was specified
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://vir.wsj.net/fp/assets/webpack4/runtime.8077b732647defb9c27d.js, line 1: ChunkLoadError: Loading chunk 631 failed.
+(error: https://vir.wsj.net/fp/assets/webpack4/fd380901-3f27-466e-9a87-145a7683ae32.46ebd1d7f888b204fe7e.js)
+JavaScript error: https://vir.wsj.net/fp/assets/webpack4/runtime.8077b732647defb9c27d.js, line 1: Error: Loading CSS chunk 589 failed.
+(https://vir.wsj.net/fp/assets/webpack4/e707cff1-882b-4cc4-bf01-4cb2d4ec61fd.d949fdc1e27049025ae2.css)
+JavaScript error: https://vir.wsj.net/fp/assets/webpack4/runtime.8077b732647defb9c27d.js, line 1: ChunkLoadError: Loading chunk 306 failed.
+(error: https://vir.wsj.net/fp/assets/webpack4/9b6fea7a-ca2a-4ec2-982f-ea3079678342.f759cca1a4f0492315c9.js)
+JavaScript error: https://vir.wsj.net/fp/assets/webpack4/runtime.8077b732647defb9c27d.js, line 1: Error: Loading CSS chunk 58 failed.
+(https://vir.wsj.net/fp/assets/webpack4/19f1715f-1f00-4c98-adc7-11439399e481.1d29063f7db0721f1a93.css)
+JavaScript error: https://vir.wsj.net/fp/assets/webpack4/runtime.8077b732647defb9c27d.js, line 1: Error: Loading CSS chunk 56 failed.
+(https://vir.wsj.net/fp/assets/webpack4/1919ce52-114a-4f9c-91dc-25eeb36719eb.9713eac53a3347d61dac.css)
+JavaScript error: https://vir.wsj.net/fp/assets/webpack4/runtime.8077b732647defb9c27d.js, line 1: Error: Loading CSS chunk 618 failed.
+(https://vir.wsj.net/fp/assets/webpack4/f7bd6813-d99d-4856-b34d-5b3ffa22a0aa.8676eb3c5cc528948c51.css)
+1591429098183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezuKEF3"
+*** You are running in headless mode.
+1591429102417	Marionette	INFO	Listening on port 44535
+1591429102516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.wsj.com/market-data/stocks/marketsdiary, line 111: SyntaxError: An invalid or illegal string was specified
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dowjonesheader64568365681/moatheader.js, line 176: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591429111043	Marionette	INFO	Stopped listening on port 44535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
