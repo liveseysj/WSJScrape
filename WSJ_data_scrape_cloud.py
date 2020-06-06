@@ -164,7 +164,7 @@ import time
 def check():
     print("executed")
 schedule.every().day.at("01:30").do(main) 
-# schedule.every(1).minutes.do(check) 
+schedule.every(1).minutes.do(main) 
 
 while True: 
   
